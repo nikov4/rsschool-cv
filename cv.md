@@ -2,7 +2,7 @@
 
 
 #### Contacts:
-+ Telegram/Discord: nikov4
++ Discord: nikov4
 + E-mail: nikov3485@gmail.com
 
 
@@ -10,6 +10,11 @@
 Inspired by the Internet since early 2K's <br>
 Made some sites at the past based at the old stack <br>
 I want to learn some relevant stuff and hope this opens up more possibilities
+
+
+#### Education:
++ Technical education
++ English - A2
 
 
 #### Skills:
