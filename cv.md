@@ -20,5 +20,8 @@ Wish to learn some actual stuff, to have more abilities <br />
 
 #### Examples:
 ```
-maybe later
+    function multiply(num1,num2) {
+      var result = num1 * num2;
+      return result;
+    }
 ```
