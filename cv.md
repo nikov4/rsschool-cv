@@ -2,7 +2,7 @@
 
 
 #### Contacts:
-+ Telegram/Discord: nikov4
++ Discord: nikov4
 + E-mail: nikov3485@gmail.com
 
 
