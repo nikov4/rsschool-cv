@@ -13,9 +13,9 @@ I want to learn some relevant stuff and hope this opens up more possibilities
 
 #### Education:
 
-We don’t need no education
-We don’t need no thought control
-No dark sarcasm in the classroom
+We don’t need no education <br>
+We don’t need no thought control <br>
+No dark sarcasm in the classroom <br>
 Teacher leave them kids alone
 
 #### English Language
